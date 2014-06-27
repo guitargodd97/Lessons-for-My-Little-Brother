@@ -64,6 +64,7 @@ public class IntExamples {
 		// Simple Division
 		z = 6;
 		z /= 2;
-		System.out.println(z);
+	    System.out.println(z);
 	}
+	
 }
